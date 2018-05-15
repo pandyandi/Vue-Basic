@@ -11,3 +11,5 @@
 .gitignore text
 *.md text
 *.css linguist-language=Vue
+
+static/* linguist-vendored
